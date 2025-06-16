@@ -80,7 +80,7 @@ This work contributes a **generic, reproducible detection framework** to help im
 
 Maximilian Schreber  
 📧 max.schreber@tum.de  
-🔗 [LinkedIn](www.linkedin.com/in/maximilian-stefan-schreber-209513299)  
+🔗 [LinkedIn](https://www.linkedin.com/in/maximilian-stefan-schreber-209513299)  
 💻 [GitHub Profile](https://github.com/MSchreber) 
 ---
 
